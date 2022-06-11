@@ -10,7 +10,7 @@ After looking at June and December's summary of statistics I found: <br/>
 ![Summary of Date](https://github.com/lbp12/surfs_up/blob/main/Resources/summary_stats.png)<br/>
 
 ## Summary
-Although the temperatures vary more in December the average is within 4 degrees of June. This I believe would still provide appropriate weather for the surf and ice cream shop.<br/>
+Although the temperatures vary more in December the average is within 4 degrees of June. This would still provide appropriate weather for the surf and ice cream shop.<br/>
 <br/>
 I would also look at the precipitation for both June and December. 
 ![Summary of Precipitation](https://github.com/lbp12/surfs_up/blob/main/Resources/summary_stats_prcp.png)<br/>
